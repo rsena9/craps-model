@@ -12,7 +12,7 @@ public class Game {
     tally = new Tally();
     this.rng = rng;
   }
-
+//random
   public State play() {
     State state = State.initial();
     int point = 0;
